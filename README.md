@@ -25,7 +25,7 @@ I believe in learning by building real-world projects and continuously improving
 
 🎯 **Goal**
 
-Become a **Full Stack Web Developer** and build scalable web applications.
+Become a ** Frontend Web Developer Web Developer** and build scalable web applications.
 
 ---
 
