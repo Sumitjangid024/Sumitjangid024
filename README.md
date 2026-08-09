@@ -106,12 +106,5 @@ Become a **Frontend Web Developer Web Developer** and build scalable web applica
 
 ---
 
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-If you like my work, don't forget to ⭐ my repositories.
-
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:141E30,100:243B55"/>
