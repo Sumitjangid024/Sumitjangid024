@@ -4,10 +4,10 @@
 
 # 👋 Hi, I'm Sumit Jangid
 
-### 💻 Frontend Web Developer | BCA Student
+### 💻 Frontend Web Developer | BCA  Student
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;BCA+3rd+Year+Student;Learning+React+%26+Modern+Web+Development;Building+Projects+%26+Improving+Every+Day" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=650&lines=Frontend+Web+Developer;BCA+3rd+Year+Student;Building+Modern+Web+Experiences;Learning+React+%26+JavaScript;Turning+Ideas+Into+Projects" />
 </p>
 
 </div>
@@ -16,36 +16,31 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Sumit Jangid**, a **BCA 3rd Year Student** 
+I'm **Sumit Jangid**, a BCA 3rd Year Student passionate about Frontend Web Development.
 
-I'm passionate about **Web Development** and enjoy building clean, responsive, and user-friendly websites.
+I enjoy transforming ideas into clean, responsive, and user-friendly web experiences. My approach is simple — learn by building, improve through practice, and keep moving forward.
 
-I believe the best way to learn programming is by **building real projects, solving problems, and continuously improving**.
-
-* 🎓 BCA 3rd Year Student
-* 💻 Focused on Frontend Web Development
-* ⚛️ Currently learning React.js
-* 🌐 Interested in Modern & Responsive Web Design
-* 🔧 Learning Git & GitHub
-* 🚀 Learning by building practical projects
+* 🎨 Responsive & Modern UI
+* 🔧 Git & GitHub
+* 🚀 Building practical projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend Development
+### 🌐 Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
 </p>
 
-### 💻 Programming Languages
+### 💻 Programming
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java" />
 </p>
 
-### 🔧 Tools & Technologies
+### 🔧 Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -55,14 +50,15 @@ I believe the best way to learn programming is by **building real projects, solv
 
 ## 📚 Currently Learning
 
-```text
-React.js
-Responsive Web Design
-Git & GitHub
-Modern Frontend Development
-```
+<p align="left">
 
----
+🔹 React.js
+🔹 JavaScript
+🔹 Responsive Web Design
+🔹 Modern Frontend Development
+🔹 Git & GitHub
+
+</p>
 
 ---
 
@@ -86,11 +82,9 @@ Modern Frontend Development
 
 </div>
 
-
-
 ---
 
-## 📬 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -111,11 +105,16 @@ Modern Frontend Development
 ---
 
 <div align="center">
-
+  
 ###  Developer Mindset
 
-**" Learning every day, coding every day, becoming better every day." 🚀**
+**"Learn continuously. Build fearlessly. Improve relentlessly." 🚀**
 
+</div>
+
+---
+
+<div align="center">
 
 
 </div>
