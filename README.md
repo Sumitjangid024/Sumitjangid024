@@ -74,15 +74,7 @@ I enjoy transforming ideas into clean, responsive, and user-friendly web experie
 
 ---
 
-## 🔥 GitHub Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SumitJangid024&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
