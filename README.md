@@ -31,7 +31,7 @@ I enjoy transforming ideas into clean, responsive, and user-friendly web experie
 ### 🌐 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,jquery" />
 </p>
 
 ### 💻 Programming
