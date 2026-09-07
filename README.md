@@ -2,9 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Sumit%20Jangid&fontSize=52&fontColor=ffffff&fontAlignY=40&animation=fadeIn"/>
 
-# 👋 Hi, I'm Sumit Jangid
+#  Hi, I'm Sumit Jangid
 
-### 💻 Frontend Web Developer | BCA  Student
+###  Frontend Web Developer | BCA  Student
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=650&lines=Frontend+Web+Developer;BCA+3rd+Year+Student;Building+Modern+Web+Experiences;Learning+React+%26+JavaScript;Turning+Ideas+Into+Projects" />
